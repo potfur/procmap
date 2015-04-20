@@ -1,0 +1,4 @@
+html, body, code { font: medium/1.5em monospace; }
+pre { line-height: 1.2em; margin: 1em; float: left; }
+div { width: 6em; margin: 1em; float: left; }
+canvas { margin: 1em; float: left; }
